@@ -1,0 +1,201 @@
+tech_skills,soft_skills,education_cgpa,sector_to_work,job_location
+Machine Learning,Creativity|Teamwork,,AI/ML,Bengaluru
+Machine Learning|Web Development,Communication|Adaptability,8.86,Finance,Nagpur
+HTML|Web Development|Java|Python,Communication|Problem Solving|Adaptability,,AI/ML,Meerut
+JavaScript|AI|HTML,Time Management|Leadership,8.74,Business Development,Rajkot
+Machine Learning|Web Development|C++|IoT,Creativity,,Web Development,Faridabad
+Machine Learning|AI|Java|HTML,Teamwork|Adaptability|Problem Solving,8.72,Business Development,Kanpur
+Java|AI|JavaScript|Machine Learning,Communication|Problem Solving,7.25,Data Science,Delhi
+HTML|IoT,Creativity,7.09,IT,Visakhapatnam
+C++|CSS|Web Development,Teamwork|Adaptability,,IT,Ghaziabad
+JavaScript,Leadership|Problem Solving|Adaptability,6.31,IT,Kolkata
+C++|HTML|JavaScript|Machine Learning,Time Management|Problem Solving,6.84,IT,Hyderabad
+Data Analysis|JavaScript,Problem Solving|Adaptability|Teamwork,8.32,Marketing,Kalyan-Dombivli
+JavaScript|Java|AI|Web Development,Time Management|Leadership|Problem Solving,,Business Development,Bhopal
+IoT|Java|JavaScript,Teamwork|Time Management|Adaptability,7.21,AI/ML,Patna
+JavaScript|Machine Learning|HTML|CSS,Time Management|Leadership|Communication,9.51,IT,Nashik
+CSS,Teamwork|Communication|Time Management,9.09,Finance,Visakhapatnam
+Java|AI,Teamwork,,Marketing,Jaipur
+AI|Machine Learning|Web Development,Leadership,6.62,Marketing,Bhopal
+Python,Creativity|Teamwork|Communication,7.34,Web Development,Kalyan-Dombivli
+Python|Web Development|Data Analysis,Time Management,,Web Development,Thane
+C++,Problem Solving,9.45,Marketing,Patna
+IoT|JavaScript|AI,Adaptability|Creativity|Communication,8.49,IT,Pune
+C++|Machine Learning|Data Analysis|Web Development,Problem Solving,7.88,Web Development,Mumbai
+IoT|Machine Learning,Problem Solving|Creativity|Time Management,6.63,Web Development,Bengaluru
+Data Analysis,Adaptability|Leadership|Time Management,8.78,IT,Chennai
+C++|JavaScript,Communication|Adaptability,8.74,Marketing,Agra
+Machine Learning,Problem Solving,7.35,Data Science,Chennai
+HTML,Problem Solving,6.74,Data Science,Vadodara
+Data Analysis|Machine Learning|CSS,Adaptability,6.19,Finance,Indore
+Web Development|HTML,Creativity|Communication|Leadership,7.0,Business Development,Vasai-Virar
+Java|HTML|AI,Time Management|Problem Solving,6.13,IT,Ludhiana
+IoT,Creativity,6.37,AI/ML,Ludhiana
+Data Analysis,Time Management,7.13,Business Development,Nashik
+C++|IoT|HTML,Leadership|Creativity,8.18,Marketing,Delhi
+JavaScript|C++,Leadership,7.81,Business Development,Kalyan-Dombivli
+JavaScript|AI|HTML|C++,Problem Solving|Communication|Time Management,9.84,AI/ML,Kalyan-Dombivli
+IoT|Java,Leadership|Adaptability|Creativity,8.58,AI/ML,Ahmedabad
+Python|IoT|JavaScript,Problem Solving|Leadership,,Business Development,Kanpur
+C++|Web Development|Data Analysis|IoT,Time Management,7.49,Web Development,Agra
+Data Analysis|AI|HTML,Leadership,9.15,Business Development,Vasai-Virar
+AI|Machine Learning|IoT|Python,Teamwork|Creativity,6.7,IT,Lucknow
+Web Development,Communication,7.72,Web Development,Bhopal
+Java,Creativity|Teamwork|Leadership,8.07,Business Development,Mumbai
+Machine Learning,Teamwork,9.17,AI/ML,Chennai
+HTML,Teamwork|Leadership|Communication,,Marketing,Vadodara
+AI|HTML|Python|IoT,Creativity|Leadership,8.79,Data Science,Kanpur
+JavaScript|C++,Leadership|Creativity|Problem Solving,,IT,Indore
+C++|Machine Learning|HTML,Problem Solving,9.24,Business Development,Vasai-Virar
+Python|AI|HTML|IoT,Creativity,,Data Science,Hyderabad
+Data Analysis|IoT|Java,Time Management,6.14,Data Science,Agra
+IoT,Problem Solving|Time Management,9.16,Web Development,Mumbai
+Data Analysis|C++,Time Management,7.02,IT,Nashik
+JavaScript|IoT,Problem Solving,7.63,Business Development,Visakhapatnam
+Web Development|Data Analysis,Time Management|Problem Solving|Creativity,7.8,IT,Rajkot
+CSS|Python|HTML,Communication,6.17,Business Development,Indore
+HTML|JavaScript|Machine Learning,Problem Solving,9.75,Data Science,Kalyan-Dombivli
+Web Development|IoT,Leadership|Communication,6.37,Business Development,Kalyan-Dombivli
+Data Analysis|JavaScript|Python|Web Development,Adaptability|Problem Solving,6.58,AI/ML,Visakhapatnam
+Machine Learning|C++,Adaptability|Creativity,9.26,Data Science,Surat
+Python|AI|C++|Web Development,Time Management|Problem Solving,9.87,AI/ML,Rajkot
+C++|Machine Learning|CSS|Data Analysis,Time Management|Leadership|Problem Solving,8.42,Web Development,Vadodara
+C++|CSS|JavaScript|Machine Learning,Creativity|Time Management|Problem Solving,6.69,AI/ML,Kanpur
+Data Analysis|Java|Python,Teamwork,7.92,Web Development,Kanpur
+JavaScript|CSS,Time Management|Teamwork,9.21,Marketing,Meerut
+HTML|Web Development|CSS|Machine Learning,Teamwork|Leadership,6.82,IT,Nashik
+JavaScript|C++|Web Development|CSS,Leadership|Teamwork|Communication,,AI/ML,Delhi
+HTML|AI|Data Analysis,Time Management|Teamwork,,IT,Jaipur
+AI,Adaptability|Problem Solving|Creativity,,Marketing,Surat
+IoT|Python,Adaptability|Creativity,9.99,Finance,Ludhiana
+IoT,Problem Solving|Time Management|Creativity,7.08,Web Development,Mumbai
+C++|AI,Leadership,8.58,Finance,Chennai
+Python|CSS,Problem Solving|Adaptability|Teamwork,9.86,Business Development,Rajkot
+CSS,Creativity,6.97,Business Development,Visakhapatnam
+Web Development|CSS|Data Analysis,Creativity|Adaptability|Communication,,Web Development,Jaipur
+Data Analysis|AI|Machine Learning|Python,Adaptability|Creativity,6.75,Marketing,Mumbai
+IoT|Web Development,Time Management|Leadership,,IT,Chennai
+CSS,Time Management|Teamwork,9.02,AI/ML,Ahmedabad
+Data Analysis|CSS,Communication|Adaptability|Problem Solving,,Web Development,Kanpur
+Data Analysis,Creativity|Leadership|Communication,6.82,AI/ML,Thane
+Data Analysis|AI|C++|Web Development,Teamwork,,AI/ML,Rajkot
+Data Analysis|Web Development|CSS,Communication,7.55,Business Development,Kanpur
+C++|CSS|Data Analysis|Web Development,Creativity|Problem Solving,,Finance,Surat
+Python|Data Analysis,Teamwork|Leadership,,Marketing,Meerut
+IoT|Java|Machine Learning|JavaScript,Time Management|Communication|Adaptability,8.92,Marketing,Patna
+Python|HTML|Data Analysis|Machine Learning,Leadership|Problem Solving,7.53,Finance,Ghaziabad
+Java,Leadership,,Business Development,Nagpur
+Machine Learning|Web Development|IoT,Leadership|Problem Solving,6.41,IT,Meerut
+C++|JavaScript|Java|HTML,Problem Solving,7.84,Web Development,Ghaziabad
+AI|HTML,Problem Solving|Creativity,6.85,Business Development,Agra
+JavaScript|Machine Learning|AI|Python,Leadership|Time Management|Communication,8.36,Data Science,Agra
+CSS,Adaptability|Time Management,7.25,IT,Vadodara
+Web Development,Creativity|Leadership|Teamwork,6.38,Marketing,Meerut
+C++,Creativity|Communication,8.41,Marketing,Pune
+HTML|Machine Learning|JavaScript,Time Management|Communication|Teamwork,8.2,AI/ML,Nagpur
+Python|HTML|CSS|Machine Learning,Time Management|Creativity,,IT,Mumbai
+Data Analysis|Python|Web Development|IoT,Communication|Teamwork|Leadership,8.94,Business Development,Ghaziabad
+Java|HTML|Web Development,Creativity|Problem Solving|Time Management,9.64,Marketing,Pune
+Machine Learning,Communication,6.14,AI/ML,Nashik
+IoT,Teamwork,7.0,Web Development,Ahmedabad
+Python|AI|Machine Learning,Leadership|Adaptability|Teamwork,,Business Development,Patna
+IoT,Adaptability|Problem Solving,8.6,AI/ML,Patna
+C++|IoT,Leadership|Creativity|Adaptability,,IT,Thane
+Python,Adaptability|Leadership,9.89,Business Development,Surat
+C++|Machine Learning|Python|IoT,Time Management|Creativity|Teamwork,9.72,AI/ML,Vadodara
+Python|C++,Communication,,Data Science,Chennai
+CSS|HTML|Java,Adaptability|Creativity,7.59,Marketing,Faridabad
+Web Development|JavaScript,Leadership|Time Management|Teamwork,7.72,Web Development,Ahmedabad
+AI,Communication|Teamwork,8.53,AI/ML,Thane
+IoT|C++|Python,Leadership|Time Management|Problem Solving,7.2,Finance,Visakhapatnam
+Java|Web Development,Adaptability|Communication|Creativity,7.45,Data Science,Patna
+CSS|IoT|JavaScript,Adaptability|Creativity,6.42,AI/ML,Ghaziabad
+Data Analysis|AI,Communication|Teamwork,9.61,Marketing,Hyderabad
+C++|Python,Time Management,7.0,Data Science,Kolkata
+JavaScript,Time Management|Communication,9.86,Data Science,Ghaziabad
+IoT|Data Analysis|HTML,Creativity|Adaptability|Time Management,9.91,Business Development,Bhopal
+JavaScript,Creativity|Teamwork,9.38,IT,Visakhapatnam
+AI|JavaScript|C++,Problem Solving|Leadership,,IT,Ghaziabad
+Data Analysis|CSS|IoT,Time Management,,Marketing,Indore
+Python,Time Management,8.21,IT,Kalyan-Dombivli
+IoT|JavaScript,Adaptability|Problem Solving,8.16,IT,Kolkata
+CSS|Web Development|Python|IoT,Leadership|Problem Solving|Adaptability,9.28,Web Development,Bhopal
+Java|JavaScript,Teamwork|Communication|Creativity,8.88,Web Development,Kanpur
+C++|JavaScript|Web Development|HTML,Communication|Leadership|Problem Solving,7.58,Finance,Delhi
+JavaScript,Creativity,,IT,Indore
+HTML|JavaScript|IoT|Web Development,Problem Solving|Communication|Time Management,7.9,Business Development,Agra
+Web Development|Machine Learning|AI,Communication|Leadership,8.19,Data Science,Vasai-Virar
+IoT|HTML,Leadership|Time Management,8.67,Web Development,Surat
+Machine Learning|CSS|HTML|Data Analysis,Communication,9.27,Marketing,Delhi
+HTML|Data Analysis,Communication|Time Management|Adaptability,8.17,Finance,Pimpri-Chinchwad
+IoT|AI,Adaptability,,Marketing,Agra
+Java|JavaScript|Web Development,Creativity|Adaptability|Leadership,8.12,Marketing,Vadodara
+Web Development|C++,Leadership|Communication,6.92,IT,Ahmedabad
+AI|Java|HTML,Communication,,Data Science,Agra
+Web Development|Data Analysis|IoT|JavaScript,Time Management|Teamwork,9.36,Web Development,Delhi
+CSS,Time Management|Problem Solving,7.37,Finance,Pune
+HTML|Python|IoT|CSS,Creativity|Problem Solving,6.48,Finance,Hyderabad
+C++|JavaScript|Data Analysis|AI,Teamwork|Problem Solving|Creativity,,Marketing,Vasai-Virar
+CSS|C++|Java|AI,Adaptability|Teamwork,8.73,AI/ML,Thane
+JavaScript,Creativity|Teamwork,9.59,IT,Lucknow
+HTML|Machine Learning,Problem Solving,9.7,Data Science,Delhi
+CSS|HTML|Web Development,Communication|Creativity,7.18,IT,Ghaziabad
+HTML|IoT|Python|Data Analysis,Adaptability|Time Management,,AI/ML,Ahmedabad
+IoT,Communication,8.76,Marketing,Surat
+AI,Adaptability|Time Management|Communication,7.98,AI/ML,Bhopal
+C++|CSS,Problem Solving|Adaptability|Teamwork,9.11,Data Science,Hyderabad
+Python|Web Development|Machine Learning|Data Analysis,Adaptability|Creativity,8.77,Marketing,Delhi
+CSS,Problem Solving|Teamwork|Communication,9.85,IT,Lucknow
+CSS|JavaScript,Problem Solving|Creativity,6.79,AI/ML,Mumbai
+AI|C++,Teamwork|Adaptability,8.01,IT,Kalyan-Dombivli
+Machine Learning,Creativity|Communication,7.62,Finance,Vadodara
+IoT,Time Management,9.22,Marketing,Agra
+JavaScript|HTML|CSS|Machine Learning,Time Management,9.82,Finance,Ahmedabad
+Machine Learning,Leadership|Time Management,7.17,IT,Agra
+Web Development|CSS|C++|AI,Problem Solving,7.81,Finance,Ghaziabad
+Machine Learning|Java|IoT|AI,Creativity|Leadership,8.14,AI/ML,Rajkot
+CSS|C++|IoT|Python,Creativity|Adaptability|Teamwork,8.74,Business Development,Ludhiana
+C++|IoT|HTML,Communication,9.94,Finance,Delhi
+C++|AI|Data Analysis,Adaptability|Creativity|Problem Solving,9.07,Marketing,Ghaziabad
+CSS|IoT|Data Analysis|JavaScript,Communication|Teamwork|Problem Solving,7.15,Data Science,Kanpur
+IoT|Web Development,Time Management|Leadership,9.25,IT,Kalyan-Dombivli
+Python,Creativity|Problem Solving|Adaptability,,AI/ML,Lucknow
+Machine Learning|JavaScript|AI|C++,Problem Solving|Communication,9.66,AI/ML,Agra
+AI,Leadership|Communication,9.02,AI/ML,Hyderabad
+CSS|Data Analysis|Web Development,Time Management|Creativity,7.02,IT,Pune
+C++|Java,Communication,9.36,IT,Vasai-Virar
+Data Analysis|Java,Leadership,7.96,Finance,Indore
+CSS|HTML,Teamwork,,Business Development,Patna
+JavaScript,Teamwork|Problem Solving,9.34,Finance,Thane
+AI|JavaScript,Creativity,6.39,Finance,Nagpur
+AI,Leadership|Time Management,8.08,Marketing,Surat
+IoT|Machine Learning,Problem Solving|Communication,8.89,Marketing,Ludhiana
+Web Development|Machine Learning|CSS|IoT,Creativity,7.8,Finance,Kanpur
+CSS|C++|Java|AI,Communication|Problem Solving|Leadership,8.14,AI/ML,Bhopal
+Web Development|Machine Learning|Python,Time Management,,Data Science,Pimpri-Chinchwad
+Data Analysis|Web Development|IoT,Adaptability,7.57,Web Development,Visakhapatnam
+Python|JavaScript,Time Management,,Business Development,Rajkot
+Web Development|Machine Learning|HTML,Teamwork|Time Management,,Finance,Bhopal
+Machine Learning|AI|Data Analysis,Communication,8.1,AI/ML,Mumbai
+Machine Learning,Creativity|Teamwork|Problem Solving,8.03,Data Science,Kanpur
+Python|IoT|C++|JavaScript,Problem Solving,8.53,Marketing,Ghaziabad
+Data Analysis|C++|Java,Time Management,7.67,IT,Mumbai
+AI|C++|CSS,Time Management|Communication|Problem Solving,8.63,Business Development,Agra
+AI|CSS,Creativity|Teamwork,6.94,Web Development,Ahmedabad
+IoT|Python|HTML|CSS,Leadership|Teamwork|Creativity,9.41,Marketing,Visakhapatnam
+Data Analysis,Leadership|Teamwork|Adaptability,8.53,Web Development,Indore
+AI,Teamwork|Time Management,6.53,Marketing,Bhopal
+Data Analysis,Teamwork|Problem Solving|Adaptability,,IT,Nashik
+IoT|Python|Web Development|Data Analysis,Creativity|Adaptability,7.96,IT,Varanasi
+Data Analysis|Python,Teamwork|Leadership,8.5,Business Development,Mumbai
+Data Analysis|JavaScript,Leadership|Creativity,8.53,Data Science,Indore
+CSS|Web Development|HTML|IoT,Problem Solving|Leadership|Time Management,9.7,Data Science,Vadodara
+HTML,Leadership|Time Management,,Marketing,Delhi
+Data Analysis|JavaScript|Web Development,Problem Solving,9.31,Web Development,Varanasi
+Machine Learning|Data Analysis|Web Development,Leadership|Communication,6.41,Business Development,Patna
+JavaScript|IoT|CSS|Java,Creativity,,Business Development,Kalyan-Dombivli
+JavaScript|Python|IoT,Creativity|Leadership,,Finance,Bengaluru
+C++|Machine Learning|Web Development|IoT,Creativity|Problem Solving,,AI/ML,Jaipur
+JavaScript|CSS|Machine Learning|Data Analysis,Communication,7.53,Business Development,Vasai-Virar
+HTML|Data Analysis,Time Management|Adaptability|Creativity,8.86,Web Development,Meerut
+Java,Creativity|Problem Solving|Teamwork,9.32,Web Development,Kolkata
